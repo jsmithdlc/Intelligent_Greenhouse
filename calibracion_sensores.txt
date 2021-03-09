@@ -1,0 +1,25 @@
+Sensor de luz: 
+- (iluminación directa) registra 1014
+- (completa oscuridad) registra 440
+- (iluminación tenue) registra 925
+- (terraza a la sombra a 4 pm) registra 974
+- (terraza a la luz a 4 pm) registra 1010
+
+Sensor de Humedad (Sobre 100ml de tierra):
+- Batch 1 (seco): 507 510 510 511 510 510 510 510 511 512
+- Batch 3 (5 ml): 379 380 379 377 377 378 376 375 375 376
+- Batch 2 (10 ml): 229 232 232 231 234 235 234 235 233 234
+- Batch 4 (15 ml): 182 183 183 183 182 183 183 182 183 183
+- Batch 5 (20 ml): 179 180 179 180 179 180 180 180 178 178
+- Batch 6 (30 ml): 164 163 164 163 160 162 163 162 163 162
+- Batch 7 (40 ml): 168 169 168 170 168 169 170 170 169 170
+- Batch 8 (50 ml): 158 156 158 157 153 152 151 151 152 152
+- Batch 9 (60 ml): 162 166 164 178 177 178 177 178 178 177
+- Batch 10 (Saturado 100 ml): 143 158 163 166 166 170 166 168 170 172
+
+BOMBA DE AGUA
+Tubo alcanza una altura máxima de 24 cm. Extremo de descarga en 12 cm de altura.
+Nivel de agua del estanque es de 11 cm (hasta marca de circular). Volumen del estanque cuando
+está lleno es de 
+
+
